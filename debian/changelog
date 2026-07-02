@@ -1,3 +1,9 @@
+ncurses (6.6+20260608-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Sven Joachim <svenjoac@gmx.de>  Thu, 02 Jul 2026 17:00:27 +0200
+
 ncurses (6.6+20260608-1) experimental; urgency=low
 
   * New upstream patchlevel.
