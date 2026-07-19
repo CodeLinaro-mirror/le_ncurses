@@ -3,6 +3,7 @@ ncurses (6.6+20260608-3) UNRELEASED; urgency=medium
   * Add a "Replaces: kmscon (= 10.0.1-1~bpo13+1)" to ncurses-term
     (Closes: #1142185).
   * Drop the Replaces on ancient third-party alacritty versions.
+  * Drop the Breaks on ancient cowdancer versions.
 
  -- Sven Joachim <svenjoac@gmx.de>  Sun, 19 Jul 2026 07:40:56 +0200
 
