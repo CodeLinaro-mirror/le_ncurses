@@ -4,6 +4,8 @@ ncurses (6.6+20260608-3) UNRELEASED; urgency=medium
     (Closes: #1142185).
   * Drop the Replaces on ancient third-party alacritty versions.
   * Drop the Breaks on ancient cowdancer versions.
+  * Change the search order for terminfo files: prefer
+    /usr/share/terminfo over /lib/terminfo.
 
  -- Sven Joachim <svenjoac@gmx.de>  Sun, 19 Jul 2026 07:40:56 +0200
 

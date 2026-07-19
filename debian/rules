@@ -138,7 +138,7 @@ CONFARGS =	--prefix=/usr \
 		--disable-root-access \
 		--disable-termcap \
 		--with-default-terminfo-dir=/etc/terminfo \
-		--with-terminfo-dirs="/etc/terminfo:/lib/terminfo:/usr/share/terminfo" \
+		--with-terminfo-dirs="/etc/terminfo:/usr/share/terminfo:/lib/terminfo" \
 		--with-ticlib=tic \
 		--with-termlib=tinfo \
 		--with-versioned-syms \
